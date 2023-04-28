@@ -1,1 +1,2 @@
-# ToS-Summarization
+# TOS-Summarization
+Minor Project 2
